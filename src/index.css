@@ -1,0 +1,57 @@
+html {
+    background-color: hotpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:beige;
+}
+
+.title {
+    text-align: center;
+}
+
+.MainDiv {
+    margin: 0px;
+}
+
+.TextCenter {
+    text-align: center;
+}
+
+.VoteButtonDiv {
+    width:100%;
+}
+
+.VoteButton {
+    width:50%;
+    min-width: 200px;
+    min-height: 20px;
+}
+
+.JoinText {
+    text-align: right;
+    margin-top:3px;
+    margin-right: 5px;
+}
+.JoinText2 {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+
+.JoinButton {
+    margin-left: 5px;
+}
+
+.JoinTitle {
+    float: left;
+}
+
+.JoinBox {
+    margin-top: 1px;
+    
+    float: right;
+}
+
+.JoinCenter {
+    display: flex;
+    justify-content: center;
+}
